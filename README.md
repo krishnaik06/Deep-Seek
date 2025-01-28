@@ -2,7 +2,7 @@
 DeepSeek, a Chinese AI research lab established in 2023, has rapidly emerged as a competitor to giants like OpenAI with its DeepSeek-R1 model. Despite being a newcomer, it challenges established players through remarkable cost efficiency and innovation. Here's a breakdown of its key aspects and implications for the AI landscape:
 
 ### Key Innovations and Strategies
-Cost Efficiency : spent over 5-$6 million to train the foundation model, on the other hand the other companies Google, Facebook, OpenAI have used ~50 to 100X more funds to do the same.
+Cost Efficiency : spent over 5-$6 million to train the foundation model, on the other hand the other companies Google, Facebook, OpenAI have used 100 times more funds to do the same.
 
 Inference: Operational costs are also significantly lower, enabling scalable deployment.
 
